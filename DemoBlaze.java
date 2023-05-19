@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 //New code removed
-
+int a=10;
 public class DemoBlaze {
 	WebDriver driver;
 	@Test
